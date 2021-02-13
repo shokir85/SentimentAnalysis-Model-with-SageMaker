@@ -7,10 +7,10 @@ Our goal will be to have a simple web page which a user can use to enter a movie
 General Outline
 Recall the general outline for SageMaker projects using a notebook instance.
 
-Download or otherwise retrieve the data.
-Process / Prepare the data.
-Upload the processed data to S3.
-Train a chosen model.
-Test the trained model (typically using a batch transform job).
-Deploy the trained model.
-Use the deployed model.
+- Download or otherwise retrieve the data.
+- Process / Prepare the data.
+- Upload the processed data to S3.
+- Train a chosen model.
+- Test the trained model (typically using a batch transform job).
+- Deploy the trained model.
+- Use the deployed model.
